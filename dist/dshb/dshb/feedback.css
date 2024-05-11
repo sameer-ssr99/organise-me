@@ -1,0 +1,14 @@
+body{
+    background-image: url(/solid/dist/images/liuxury.jpg);
+}
+/* .feedback{
+    background-image: url(/solid/dist/images/liuxury.jpg);
+} */
+h1{
+    color: cadetblue;
+}
+span{
+    color: whitesmoke;
+    text-align: center;
+    font-size: larger;
+}
